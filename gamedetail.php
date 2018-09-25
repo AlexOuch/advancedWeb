@@ -18,7 +18,7 @@ $pd = $detail -> getGame($id);
                       <?php
                       foreach( $pd as $prod ){
                           $img = 'images/games/' . $prod['image'];
-                          echo "<img class=\"img-fluid\" src=\"$img\">";
+                          echo "<img class=\"gameDetailImg\" src=\"$img\">";
                       }
                       ?>
                   </div>
