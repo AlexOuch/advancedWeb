@@ -3,8 +3,8 @@ session_start();
 //include autoloader
 include('autoloader.php');
 //create instance of products class
-$gam = new Games();
-$games = $gam -> getGames();
+$gam = new Ps3Games();
+$games = $gam -> getPs3Games();
 $page_title = 'Home Page';
 
 ?>
@@ -14,7 +14,7 @@ $page_title = 'Home Page';
     <body>
         <?php include('includes/navbar.php') ?>
         <div class="container">
-            <h3>All Games</h3>
+            <h3>PS3 Games</h3>
               <div class="row">
                   <?php
                     foreach( $games as $item ){
