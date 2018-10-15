@@ -1,13 +1,8 @@
 <?php
-session_start();
-//include autoloader
 include('autoloader.php');
-//create instance of products class
-$flag = $_GET['flag'];
-$gam = new Games();
-$games = $gam -> getGames($flag);
-$page_title = 'Home Page';
-
+$keyword = $_GET['flag'];
+$search = new GameDetail($keyword);
+$games = $search -> getGamesSort($keyword);
 ?>
 <!doctype html>
 <html>

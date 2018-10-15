@@ -19,5 +19,19 @@ class GameDetail extends Games{
         }
         return $game_detail;
     }
+     public function getGamesSort( $flag ){
+        $query = "
+                select game.game_id, game.name, game.release_date, game.description, game.price, game.console, game.image
+                from game
+                order by ".$flag;
+        $statement= $this -> connection -> prepare($query);
+        $statement -> execute();
+        $result = $statement -> get_result();
+        $game_detail = array();
+        while($row = $result -> fetch_assoc()){
+            array_push($game_detail, $row);
+        }
+        return $game_detail;
+    }
 }
 ?>

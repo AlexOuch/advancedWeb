@@ -1,0 +1,1089 @@
+[15-Oct-2018 11:14:43 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 11:14:43 UTC] PHP Stack trace:
+[15-Oct-2018 11:14:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 11:14:43 UTC] PHP   2. SignupHelper->usernameExists() /home/ubuntu/workspace/ajax/signup.ajax.php:24
+[15-Oct-2018 11:15:18 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 11:15:18 UTC] PHP Stack trace:
+[15-Oct-2018 11:15:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 11:15:18 UTC] PHP   2. SignupHelper->usernameExists() /home/ubuntu/workspace/ajax/signup.ajax.php:24
+[15-Oct-2018 11:16:56 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/account.class.php on line 81
+[15-Oct-2018 11:16:56 UTC] PHP Stack trace:
+[15-Oct-2018 11:16:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/login.ajax.php:0
+[15-Oct-2018 11:16:56 UTC] PHP   2. Account->authenticate() /home/ubuntu/workspace/ajax/login.ajax.php:22
+[15-Oct-2018 11:17:15 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/account.class.php on line 81
+[15-Oct-2018 11:17:15 UTC] PHP Stack trace:
+[15-Oct-2018 11:17:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/login.ajax.php:0
+[15-Oct-2018 11:17:15 UTC] PHP   2. Account->authenticate() /home/ubuntu/workspace/ajax/login.ajax.php:22
+[15-Oct-2018 12:59:43 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/account.class.php on line 81
+[15-Oct-2018 12:59:43 UTC] PHP Stack trace:
+[15-Oct-2018 12:59:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/login.ajax.php:0
+[15-Oct-2018 12:59:43 UTC] PHP   2. Account->authenticate() /home/ubuntu/workspace/ajax/login.ajax.php:22
+[15-Oct-2018 12:59:47 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/account.class.php on line 81
+[15-Oct-2018 12:59:47 UTC] PHP Stack trace:
+[15-Oct-2018 12:59:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/login.ajax.php:0
+[15-Oct-2018 12:59:47 UTC] PHP   2. Account->authenticate() /home/ubuntu/workspace/ajax/login.ajax.php:22
+[15-Oct-2018 15:28:17 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/account.class.php on line 81
+[15-Oct-2018 15:28:17 UTC] PHP Stack trace:
+[15-Oct-2018 15:28:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/login.ajax.php:0
+[15-Oct-2018 15:28:17 UTC] PHP   2. Account->authenticate() /home/ubuntu/workspace/ajax/login.ajax.php:22
+[15-Oct-2018 15:29:01 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 15:29:01 UTC] PHP Stack trace:
+[15-Oct-2018 15:29:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 15:29:01 UTC] PHP   2. SignupHelper->usernameExists() /home/ubuntu/workspace/ajax/signup.ajax.php:24
+[15-Oct-2018 15:29:49 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/account.class.php on line 81
+[15-Oct-2018 15:29:49 UTC] PHP Stack trace:
+[15-Oct-2018 15:29:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/login.ajax.php:0
+[15-Oct-2018 15:29:49 UTC] PHP   2. Account->authenticate() /home/ubuntu/workspace/ajax/login.ajax.php:22
+[15-Oct-2018 15:30:14 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/account.class.php on line 81
+[15-Oct-2018 15:30:14 UTC] PHP Stack trace:
+[15-Oct-2018 15:30:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/login.ajax.php:0
+[15-Oct-2018 15:30:14 UTC] PHP   2. Account->authenticate() /home/ubuntu/workspace/ajax/login.ajax.php:22
+[15-Oct-2018 15:30:50 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 15:30:50 UTC] PHP Stack trace:
+[15-Oct-2018 15:30:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 15:30:50 UTC] PHP   2. SignupHelper->usernameExists() /home/ubuntu/workspace/ajax/signup.ajax.php:24
+[15-Oct-2018 15:46:32 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 15:46:32 UTC] PHP Stack trace:
+[15-Oct-2018 15:46:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 15:46:32 UTC] PHP   2. SignupHelper->usernameExists() /home/ubuntu/workspace/ajax/signup.ajax.php:24
+[15-Oct-2018 15:46:35 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 15:46:35 UTC] PHP Stack trace:
+[15-Oct-2018 15:46:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 15:46:35 UTC] PHP   2. SignupHelper->usernameExists() /home/ubuntu/workspace/ajax/signup.ajax.php:24
+[15-Oct-2018 15:51:23 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 15:51:23 UTC] PHP Stack trace:
+[15-Oct-2018 15:51:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 15:51:23 UTC] PHP   2. SignupHelper->usernameExists() /home/ubuntu/workspace/ajax/signup.ajax.php:24
+[15-Oct-2018 15:53:03 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 15:53:03 UTC] PHP Stack trace:
+[15-Oct-2018 15:53:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 15:53:03 UTC] PHP   2. SignupHelper->usernameExists() /home/ubuntu/workspace/ajax/signup.ajax.php:24
+[15-Oct-2018 15:54:29 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 15:54:29 UTC] PHP Stack trace:
+[15-Oct-2018 15:54:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 15:54:29 UTC] PHP   2. SignupHelper->usernameExists() /home/ubuntu/workspace/ajax/signup.ajax.php:24
+[15-Oct-2018 15:59:56 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 15:59:56 UTC] PHP Stack trace:
+[15-Oct-2018 15:59:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 15:59:56 UTC] PHP   2. SignupHelper->usernameExists() /home/ubuntu/workspace/ajax/signup.ajax.php:24
+[15-Oct-2018 16:04:20 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:04:20 UTC] PHP Stack trace:
+[15-Oct-2018 16:04:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:04:20 UTC] PHP   2. SignupHelper->usernameExists() /home/ubuntu/workspace/ajax/signup.ajax.php:24
+[15-Oct-2018 16:10:37 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:10:37 UTC] PHP Stack trace:
+[15-Oct-2018 16:10:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:10:37 UTC] PHP   2. SignupHelper->usernameExists() /home/ubuntu/workspace/ajax/signup.ajax.php:24
+[15-Oct-2018 16:12:45 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:12:45 UTC] PHP Stack trace:
+[15-Oct-2018 16:12:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:12:45 UTC] PHP   2. SignupHelper->usernameExists() /home/ubuntu/workspace/ajax/signup.ajax.php:24
+[15-Oct-2018 16:16:08 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:16:08 UTC] PHP Stack trace:
+[15-Oct-2018 16:16:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:16:08 UTC] PHP   2. SignupHelper->usernameExists() /home/ubuntu/workspace/ajax/signup.ajax.php:24
+[15-Oct-2018 16:16:14 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:16:14 UTC] PHP Stack trace:
+[15-Oct-2018 16:16:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:16:14 UTC] PHP   2. SignupHelper->usernameExists() /home/ubuntu/workspace/ajax/signup.ajax.php:24
+[15-Oct-2018 16:17:41 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:17:41 UTC] PHP Stack trace:
+[15-Oct-2018 16:17:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:17:41 UTC] PHP   2. SignupHelper->usernameExists() /home/ubuntu/workspace/ajax/signup.ajax.php:24
+[15-Oct-2018 16:17:45 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:17:45 UTC] PHP Stack trace:
+[15-Oct-2018 16:17:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:17:45 UTC] PHP   2. SignupHelper->usernameExists() /home/ubuntu/workspace/ajax/signup.ajax.php:24
+[15-Oct-2018 16:24:51 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:24:51 UTC] PHP Stack trace:
+[15-Oct-2018 16:24:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:24:51 UTC] PHP   2. SignupHelper->usernameExists() /home/ubuntu/workspace/ajax/signup.ajax.php:24
+[15-Oct-2018 16:27:30 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:27:30 UTC] PHP Stack trace:
+[15-Oct-2018 16:27:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:27:30 UTC] PHP   2. SignupHelper->usernameExists() /home/ubuntu/workspace/ajax/signup.ajax.php:24
+[15-Oct-2018 16:27:30 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:27:30 UTC] PHP Stack trace:
+[15-Oct-2018 16:27:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:27:30 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:27:30 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:27:46 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:27:46 UTC] PHP Stack trace:
+[15-Oct-2018 16:27:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:27:46 UTC] PHP   2. SignupHelper->usernameExists() /home/ubuntu/workspace/ajax/signup.ajax.php:24
+[15-Oct-2018 16:28:04 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:28:04 UTC] PHP Stack trace:
+[15-Oct-2018 16:28:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:28:04 UTC] PHP   2. SignupHelper->usernameExists() /home/ubuntu/workspace/ajax/signup.ajax.php:24
+[15-Oct-2018 16:28:18 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:28:18 UTC] PHP Stack trace:
+[15-Oct-2018 16:28:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:28:18 UTC] PHP   2. SignupHelper->usernameExists() /home/ubuntu/workspace/ajax/signup.ajax.php:24
+[15-Oct-2018 16:28:28 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:28:28 UTC] PHP Stack trace:
+[15-Oct-2018 16:28:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:28:28 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:28:28 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:28:41 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:28:41 UTC] PHP Stack trace:
+[15-Oct-2018 16:28:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:28:41 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:28:41 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:28:44 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:28:44 UTC] PHP Stack trace:
+[15-Oct-2018 16:28:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:28:44 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:28:44 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:28:44 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:28:44 UTC] PHP Stack trace:
+[15-Oct-2018 16:28:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:28:44 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:28:44 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:28:45 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:28:45 UTC] PHP Stack trace:
+[15-Oct-2018 16:28:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:28:45 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:28:45 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:28:45 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:28:45 UTC] PHP Stack trace:
+[15-Oct-2018 16:28:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:28:45 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:28:45 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:28:45 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:28:45 UTC] PHP Stack trace:
+[15-Oct-2018 16:28:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:28:45 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:28:45 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:28:46 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:28:46 UTC] PHP Stack trace:
+[15-Oct-2018 16:28:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:28:46 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:28:46 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:28:46 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:28:46 UTC] PHP Stack trace:
+[15-Oct-2018 16:28:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:28:46 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:28:46 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:28:46 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:28:46 UTC] PHP Stack trace:
+[15-Oct-2018 16:28:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:28:46 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:28:46 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:28:46 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:28:46 UTC] PHP Stack trace:
+[15-Oct-2018 16:28:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:28:46 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:28:46 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:28:47 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:28:47 UTC] PHP Stack trace:
+[15-Oct-2018 16:28:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:28:47 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:28:47 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:03 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:03 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:03 UTC] PHP   2. SignupHelper->usernameExists() /home/ubuntu/workspace/ajax/signup.ajax.php:24
+[15-Oct-2018 16:29:03 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:03 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:03 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:03 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:09 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:09 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:09 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:09 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:09 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:09 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:09 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:09 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:10 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:10 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:10 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:10 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:10 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:10 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:10 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:10 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:10 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:10 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:10 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:10 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:10 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:10 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:10 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:10 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:10 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:10 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:10 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:10 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:11 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:11 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:11 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:11 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:11 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:11 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:11 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:11 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:11 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:11 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:11 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:11 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:12 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:12 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:12 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:12 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:12 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:12 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:12 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:12 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:12 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:12 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:12 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:12 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:13 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:13 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:13 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:13 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:13 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:13 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:13 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:13 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:13 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:13 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:13 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:13 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:13 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:13 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:13 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:13 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:13 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:13 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:13 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:13 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:14 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:14 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:14 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:14 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:14 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:14 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:14 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:14 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:14 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:14 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:14 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:14 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:14 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:14 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:14 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:14 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:14 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:14 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:14 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:14 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:15 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:15 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:15 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:15 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:15 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:15 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:15 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:15 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:15 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:15 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:15 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:15 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:15 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:15 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:15 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:15 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:16 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:16 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:16 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:16 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:16 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:16 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:16 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:16 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:16 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:16 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:16 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:16 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:16 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:16 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:16 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:16 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:16 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:16 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:16 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:16 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:17 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:17 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:17 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:17 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:17 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:17 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:17 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:17 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:18 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:18 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:18 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:18 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:18 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:18 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:18 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:18 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:18 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:18 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:18 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:18 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:19 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:19 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:19 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:19 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:19 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:19 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:19 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:19 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:19 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:19 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:19 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:19 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:19 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:19 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:19 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:19 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:19 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:19 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:19 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:19 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:20 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:20 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:20 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:20 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:20 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:20 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:20 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:20 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:20 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:20 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:20 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:20 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:20 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:20 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:20 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:20 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:20 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:20 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:20 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:20 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:21 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:21 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:21 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:21 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:21 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:21 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:21 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:21 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:21 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:21 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:21 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:21 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:21 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:21 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:21 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:21 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:22 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:22 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:22 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:22 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:22 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:22 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:22 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:22 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:22 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:22 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:22 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:22 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:22 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:22 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:22 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:22 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:22 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:22 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:22 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:22 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:23 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:23 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:23 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:23 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:23 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:23 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:23 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:23 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:23 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:23 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:23 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:23 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:23 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:23 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:23 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:23 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:23 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:23 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:23 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:23 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:23 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:23 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:23 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:23 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:24 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:24 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:24 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:24 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:24 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:24 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:24 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:24 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:24 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:24 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:24 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:24 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:24 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:24 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:24 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:24 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:24 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:24 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:24 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:24 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:25 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:25 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:25 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:25 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:25 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:25 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:25 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:25 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:25 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:25 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:25 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:25 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:25 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:25 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:25 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:25 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:27 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:27 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:27 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:27 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:28 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:28 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:28 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:28 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:35 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:35 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:35 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:35 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:36 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:36 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:36 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:36 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:36 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:36 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:36 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:36 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:36 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:36 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:36 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:36 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:36 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:36 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:36 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:36 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:36 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:36 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:36 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:36 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:36 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:36 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:36 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:36 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:36 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:36 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:36 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:36 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:37 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:37 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:37 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:37 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:37 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:37 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:37 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:37 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:37 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:37 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:37 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:37 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:37 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:37 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:37 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:37 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:37 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:37 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:37 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:37 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:37 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:37 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:37 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:37 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:38 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:38 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:38 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:38 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:38 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:38 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:38 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:38 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:38 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:38 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:38 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:38 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:38 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:38 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:38 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:38 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:38 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:38 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:38 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:38 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:38 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:38 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:38 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:38 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:39 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:39 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:39 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:39 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:39 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:39 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:39 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:39 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:39 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:39 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:39 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:39 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:39 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:39 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:39 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:39 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:40 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:40 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:40 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:40 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:40 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:40 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:40 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:40 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:40 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:40 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:40 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:40 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:40 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:40 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:40 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:40 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:40 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:40 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:40 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:40 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:40 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:40 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:40 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:40 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:40 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:40 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:40 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:40 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:41 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:41 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:41 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:41 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:41 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:41 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:41 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:41 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:41 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:41 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:41 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:41 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:41 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:41 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:41 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:41 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:41 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:41 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:41 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:41 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:41 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:41 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:41 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:41 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:42 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:42 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:42 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:42 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:42 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:42 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:42 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:42 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:42 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:42 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:42 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:42 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:42 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:42 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:42 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:42 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:42 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:42 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:42 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:42 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:42 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:42 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:42 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:42 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:43 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:43 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:43 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:43 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:43 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:43 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:43 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:43 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:43 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:43 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:43 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:43 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:43 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:43 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:43 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:43 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:43 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:43 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:43 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:43 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:44 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:44 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:44 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:44 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:44 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:44 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:44 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:44 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:44 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:44 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:44 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:44 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:44 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:44 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:44 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:44 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:44 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:44 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:44 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:44 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:44 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:44 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:44 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:44 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:45 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:45 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:45 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:45 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:47 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:47 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:47 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:47 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:29:50 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:50 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:50 UTC] PHP   2. SignupHelper->usernameExists() /home/ubuntu/workspace/ajax/signup.ajax.php:24
+[15-Oct-2018 16:29:50 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:29:50 UTC] PHP Stack trace:
+[15-Oct-2018 16:29:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:29:50 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:29:50 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:30:13 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:30:13 UTC] PHP Stack trace:
+[15-Oct-2018 16:30:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:30:13 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:30:13 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:30:23 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:30:23 UTC] PHP Stack trace:
+[15-Oct-2018 16:30:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:30:23 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:30:23 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:31:24 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:31:24 UTC] PHP Stack trace:
+[15-Oct-2018 16:31:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:31:24 UTC] PHP   2. SignupHelper->usernameExists() /home/ubuntu/workspace/ajax/signup.ajax.php:24
+[15-Oct-2018 16:31:40 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:31:40 UTC] PHP Stack trace:
+[15-Oct-2018 16:31:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:31:40 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:31:40 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:35:15 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:35:15 UTC] PHP Stack trace:
+[15-Oct-2018 16:35:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:35:15 UTC] PHP   2. SignupHelper->usernameExists() /home/ubuntu/workspace/ajax/signup.ajax.php:24
+[15-Oct-2018 16:35:23 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:35:23 UTC] PHP Stack trace:
+[15-Oct-2018 16:35:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:35:23 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:35:23 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:35:24 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:35:24 UTC] PHP Stack trace:
+[15-Oct-2018 16:35:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:35:24 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:35:24 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:35:25 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:35:25 UTC] PHP Stack trace:
+[15-Oct-2018 16:35:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:35:25 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:35:25 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:35:40 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:35:40 UTC] PHP Stack trace:
+[15-Oct-2018 16:35:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:35:40 UTC] PHP   2. SignupHelper->usernameExists() /home/ubuntu/workspace/ajax/signup.ajax.php:24
+[15-Oct-2018 16:35:46 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:35:46 UTC] PHP Stack trace:
+[15-Oct-2018 16:35:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:35:46 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:35:46 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:36:17 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:36:17 UTC] PHP Stack trace:
+[15-Oct-2018 16:36:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:36:17 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:36:17 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:36:22 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:36:22 UTC] PHP Stack trace:
+[15-Oct-2018 16:36:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:36:22 UTC] PHP   2. SignupHelper->usernameExists() /home/ubuntu/workspace/ajax/signup.ajax.php:24
+[15-Oct-2018 16:36:31 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:36:31 UTC] PHP Stack trace:
+[15-Oct-2018 16:36:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:36:31 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:36:31 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:36:45 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:36:45 UTC] PHP Stack trace:
+[15-Oct-2018 16:36:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:36:45 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:36:45 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:36:45 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:36:45 UTC] PHP Stack trace:
+[15-Oct-2018 16:36:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:36:45 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:36:45 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:36:45 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:36:45 UTC] PHP Stack trace:
+[15-Oct-2018 16:36:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:36:45 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:36:45 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:36:45 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:36:45 UTC] PHP Stack trace:
+[15-Oct-2018 16:36:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:36:45 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:36:45 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:36:45 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:36:45 UTC] PHP Stack trace:
+[15-Oct-2018 16:36:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:36:45 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:36:45 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:36:46 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:36:46 UTC] PHP Stack trace:
+[15-Oct-2018 16:36:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:36:46 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:36:46 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:36:46 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:36:46 UTC] PHP Stack trace:
+[15-Oct-2018 16:36:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:36:46 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:36:46 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:36:47 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:36:47 UTC] PHP Stack trace:
+[15-Oct-2018 16:36:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:36:47 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:36:47 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:36:47 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:36:47 UTC] PHP Stack trace:
+[15-Oct-2018 16:36:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:36:47 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:36:47 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:36:47 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:36:47 UTC] PHP Stack trace:
+[15-Oct-2018 16:36:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:36:47 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:36:47 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:36:47 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:36:47 UTC] PHP Stack trace:
+[15-Oct-2018 16:36:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:36:47 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:36:47 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:36:47 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:36:47 UTC] PHP Stack trace:
+[15-Oct-2018 16:36:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:36:47 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:36:47 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:36:47 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:36:47 UTC] PHP Stack trace:
+[15-Oct-2018 16:36:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:36:47 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:36:47 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:36:47 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:36:47 UTC] PHP Stack trace:
+[15-Oct-2018 16:36:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:36:47 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:36:47 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:36:47 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:36:47 UTC] PHP Stack trace:
+[15-Oct-2018 16:36:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:36:47 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:36:47 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:36:47 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:36:47 UTC] PHP Stack trace:
+[15-Oct-2018 16:36:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:36:47 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:36:47 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:36:48 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:36:48 UTC] PHP Stack trace:
+[15-Oct-2018 16:36:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:36:48 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:36:48 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:36:49 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:36:49 UTC] PHP Stack trace:
+[15-Oct-2018 16:36:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:36:49 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:36:49 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:36:49 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:36:49 UTC] PHP Stack trace:
+[15-Oct-2018 16:36:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:36:49 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:36:49 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:36:49 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:36:49 UTC] PHP Stack trace:
+[15-Oct-2018 16:36:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:36:49 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:36:49 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:36:49 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:36:49 UTC] PHP Stack trace:
+[15-Oct-2018 16:36:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:36:49 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:36:49 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:36:49 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:36:49 UTC] PHP Stack trace:
+[15-Oct-2018 16:36:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:36:49 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:36:49 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:36:49 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:36:49 UTC] PHP Stack trace:
+[15-Oct-2018 16:36:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:36:49 UTC] PHP   2. Account->create() /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:36:49 UTC] PHP   3. SignupHelper->usernameExists() /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:39:44 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:39:44 UTC] PHP Stack trace:
+[15-Oct-2018 16:39:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:39:44 UTC] PHP   2. SignupHelper->usernameExists($username = *uninitialized*) /home/ubuntu/workspace/ajax/signup.ajax.php:24
+[15-Oct-2018 16:40:10 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:40:10 UTC] PHP Stack trace:
+[15-Oct-2018 16:40:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:40:10 UTC] PHP   2. Account->create($username = *uninitialized*, $email = *uninitialized*, $password = *uninitialized*) /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:40:10 UTC] PHP   3. SignupHelper->usernameExists($username = *uninitialized*) /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:40:10 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:40:10 UTC] PHP Stack trace:
+[15-Oct-2018 16:40:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:40:10 UTC] PHP   2. Account->create($username = *uninitialized*, $email = *uninitialized*, $password = *uninitialized*) /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:40:10 UTC] PHP   3. SignupHelper->usernameExists($username = *uninitialized*) /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:40:26 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:40:26 UTC] PHP Stack trace:
+[15-Oct-2018 16:40:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:40:26 UTC] PHP   2. Account->create($username = *uninitialized*, $email = *uninitialized*, $password = *uninitialized*) /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:40:26 UTC] PHP   3. SignupHelper->usernameExists($username = *uninitialized*) /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:40:49 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:40:49 UTC] PHP Stack trace:
+[15-Oct-2018 16:40:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:40:49 UTC] PHP   2. SignupHelper->usernameExists($username = *uninitialized*) /home/ubuntu/workspace/ajax/signup.ajax.php:24
+[15-Oct-2018 16:40:49 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:40:49 UTC] PHP Stack trace:
+[15-Oct-2018 16:40:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:40:49 UTC] PHP   2. Account->create($username = *uninitialized*, $email = *uninitialized*, $password = *uninitialized*) /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:40:49 UTC] PHP   3. SignupHelper->usernameExists($username = *uninitialized*) /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:42:08 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:42:08 UTC] PHP Stack trace:
+[15-Oct-2018 16:42:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:42:08 UTC] PHP   2. SignupHelper->usernameExists($username = *uninitialized*) /home/ubuntu/workspace/ajax/signup.ajax.php:24
+[15-Oct-2018 16:42:15 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:42:15 UTC] PHP Stack trace:
+[15-Oct-2018 16:42:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:42:15 UTC] PHP   2. Account->create($username = *uninitialized*, $email = *uninitialized*, $password = *uninitialized*) /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:42:15 UTC] PHP   3. SignupHelper->usernameExists($username = *uninitialized*) /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:42:25 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:42:25 UTC] PHP Stack trace:
+[15-Oct-2018 16:42:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:42:25 UTC] PHP   2. Account->create($username = *uninitialized*, $email = *uninitialized*, $password = *uninitialized*) /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:42:25 UTC] PHP   3. SignupHelper->usernameExists($username = *uninitialized*) /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 16:47:58 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:47:58 UTC] PHP Stack trace:
+[15-Oct-2018 16:47:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:47:58 UTC] PHP   2. SignupHelper->usernameExists($username = *uninitialized*) /home/ubuntu/workspace/ajax/signup.ajax.php:24
+[15-Oct-2018 16:47:58 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/signuphelper.class.php on line 9
+[15-Oct-2018 16:47:58 UTC] PHP Stack trace:
+[15-Oct-2018 16:47:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 16:47:58 UTC] PHP   2. Account->create($username = *uninitialized*, $email = *uninitialized*, $password = *uninitialized*) /home/ubuntu/workspace/ajax/signup.ajax.php:68
+[15-Oct-2018 16:47:58 UTC] PHP   3. SignupHelper->usernameExists($username = *uninitialized*) /home/ubuntu/workspace/classes/account.class.php:26
+[15-Oct-2018 17:12:21 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/account.class.php on line 81
+[15-Oct-2018 17:12:21 UTC] PHP Stack trace:
+[15-Oct-2018 17:12:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/login.ajax.php:0
+[15-Oct-2018 17:12:21 UTC] PHP   2. Account->authenticate($email = *uninitialized*, $password = *uninitialized*) /home/ubuntu/workspace/ajax/login.ajax.php:22
+[15-Oct-2018 17:17:50 UTC] PHP Fatal error:  Call to undefined function U() in /home/ubuntu/workspace/ajax/signup.ajax.php on line 87
+[15-Oct-2018 17:17:50 UTC] PHP Stack trace:
+[15-Oct-2018 17:17:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 17:17:57 UTC] PHP Fatal error:  Call to undefined function U() in /home/ubuntu/workspace/ajax/signup.ajax.php on line 87
+[15-Oct-2018 17:17:57 UTC] PHP Stack trace:
+[15-Oct-2018 17:17:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/signup.ajax.php:0
+[15-Oct-2018 17:22:28 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/ubuntu/workspace/ajax/login.ajax.php on line 32
+[15-Oct-2018 17:22:38 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/ubuntu/workspace/ajax/login.ajax.php on line 32
+[15-Oct-2018 17:23:07 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/ubuntu/workspace/ajax/login.ajax.php on line 32
+[15-Oct-2018 17:23:19 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/ubuntu/workspace/ajax/login.ajax.php on line 32
+[15-Oct-2018 17:25:39 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ubuntu/workspace/classes/account.class.php on line 81
+[15-Oct-2018 17:25:39 UTC] PHP Stack trace:
+[15-Oct-2018 17:25:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajax/login.ajax.php:0
+[15-Oct-2018 17:25:39 UTC] PHP   2. Account->authenticate() /home/ubuntu/workspace/ajax/login.ajax.php:22

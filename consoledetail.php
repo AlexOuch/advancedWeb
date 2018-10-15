@@ -2,8 +2,8 @@
 include('autoloader.php');
 //receive get requests for product_id
 $id = $_GET['product_id'];
-$detail = new GameDetail();
-$pd = $detail -> getGame($id);
+$detail = new ConsoleDetail();
+$pd = $detail -> getConsole($id);
 
 ?>
 
@@ -17,7 +17,7 @@ $pd = $detail -> getGame($id);
                   <div class="col-md-6">
                       <?php
                       foreach( $pd as $prod ){
-                          $img = 'images/games/' . $prod['image'];
+                          $img = 'images/consoles/' . $prod['image'];
                           echo "<img class=\"gameDetailImg\" src=\"$img\">";
                       }
                       ?>
@@ -34,12 +34,8 @@ $pd = $detail -> getGame($id);
                       <h5>Price: $<?php echo $price; ?></h5>
                       <row><h5>Description</h5></row>
                       <p><?php echo $description; ?></p>
-                      <div class="row1">
-                          <button type="button" class="btn">Add to Cart</button>
-                      </div>
                   </div>
               </div>
-              
         </div>
         
     </body>

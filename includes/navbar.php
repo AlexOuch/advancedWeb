@@ -37,11 +37,11 @@ else{
             <li class = "nav-item">
                 <button class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Sort By</button>
                 <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                    <a class="dropdown-item" href="#">Release Date</a>
-                    <a class="dropdown-item" href="#">Price (ascending)</a>
-                    <a class="dropdown-item" href="#">Price (descending)</a>
-                    <a class="dropdown-item" href="#">Name (ascending)</a>
-                    <a class="dropdown-item" href="#">Name (descending)</a>
+                    <a class="dropdown-item" href="sort.php?flag=game.release_date desc">Release Date</a>
+                    <a class="dropdown-item" href="sort.php?flag=game.price asc">Price (ascending)</a>
+                    <a class="dropdown-item" href="sort.php?flag=game.price desc">Price (descending)</a>
+                    <a class="dropdown-item" href="sort.php?flag=game.name asc">Name (ascending)</a>
+                    <a class="dropdown-item" href="sort.php?flag=game.name desc">Name (descending)</a>
                 </div>
             </li>
         </ul>
@@ -57,6 +57,7 @@ else{
                 </li>";
             }
             ?>
+            <img class = "shoppingCartIcon" href="shoppingcart.php" src="images/shoppingCartIcon.png">
         </ul>
     </div>
 </nav>
